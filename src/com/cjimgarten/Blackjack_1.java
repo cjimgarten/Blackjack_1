@@ -1,5 +1,5 @@
 /*
- * Blacjack_1.java
+ * Blackjack_1.java
  * 
  * created: 12-03-2016
  * modified: 12-03-2016
